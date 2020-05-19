@@ -17,7 +17,7 @@ namespace MediaLibrary
 
                 Console.WriteLine("Number of items: " + MediaLib.NumberOfItems);
             
-                var item = MediaLibrary1.FindItem(string "stargate");
+                var item = MediaLibrary1.FindItem("stargate");
                 // MediaLib.DisplayItems();
 
                 // Display(MediaLib.GetItemAt(0));
